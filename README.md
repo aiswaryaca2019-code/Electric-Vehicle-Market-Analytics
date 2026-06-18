@@ -2,8 +2,6 @@
 This is my python-based Capstone Project 
 This project is focused on Electric Vehicle analysis using data preprocessing, Exploratory Data Analysis, Visualization and insight generation.
 
-Dataset Link:
-https://docs.google.com/spreadsheets/d/1JjgCSjgCZTQkShIlU2pnNUTt1USHo5TZ/edit?usp=sharing&ouid=100494826208555241800&rtpof=true&sd=true
 
 ## Project Overview
 
@@ -32,22 +30,21 @@ The rapid growth of electric vehicles has created a need to understand market tr
 The dataset contains information related to Electric Vehicles including registration and performance-related attributes.
 
 Dataset Access Link:
-PASTE YOUR GOOGLE DRIVE LINK HERE
-
----
+https://docs.google.com/spreadsheets/d/1JjgCSjgCZTQkShIlU2pnNUTt1USHo5TZ/edit?usp=sharing&ouid=100494826208555241800&rtpof=true&sd=true
 
 ## Column Description
 
-| Column                | Description                          |
-| --------------------- | ------------------------------------ |
-| Electric Vehicle Type | Type of EV (BEV / PHEV)              |
-| Make                  | Manufacturer name                    |
-| Model Year            | Vehicle production year              |
-| Electric Range        | Distance travelled on electric power |
-| City                  | Registration city                    |
-| Postal Code           | Area postal code                     |
-| DOL Vehicle ID        | Unique vehicle identifier            |
-| 2020 Census Tract     | Geographic classification            |
+| Column Name           | Description                                     |
+| --------------------- | ----------------------------------------------- |
+| Electric Vehicle Type | Type of electric vehicle (BEV or PHEV)          |
+| Make                  | Manufacturer of the vehicle                     |
+| Model Year            | Production year of the vehicle                  |
+| Electric Range        | Maximum distance travelled using electric power |
+| City                  | City where the vehicle is registered            |
+| Postal Code           | Postal code of the registration location        |
+| DOL Vehicle ID        | Unique vehicle identification number            |
+| 2020 Census Tract     | Geographic census classification                |
+
 
 ---
 
