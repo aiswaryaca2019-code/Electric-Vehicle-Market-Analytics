@@ -28,6 +28,7 @@ The rapid growth of electric vehicles has created a need to understand market tr
 ## Dataset Information
 
 The dataset contains information related to Electric Vehicles including registration and performance-related attributes.
+
 Number of Rows:177866
 Number of Columns:17
 
