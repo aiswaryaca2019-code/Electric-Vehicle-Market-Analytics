@@ -5,8 +5,6 @@ This project is focused on Electric Vehicle analysis using data preprocessing, E
 Dataset Link:
 https://docs.google.com/spreadsheets/d/1JjgCSjgCZTQkShIlU2pnNUTt1USHo5TZ/edit?usp=sharing&ouid=100494826208555241800&rtpof=true&sd=true
 
-# Electric Vehicle Market Analytics
-
 ## Project Overview
 
 This project focuses on analyzing Electric Vehicle (EV) market data using Python. The analysis was performed to understand EV adoption patterns, electric range distribution, manufacturer performance, model year trends, and relationships among variables through Exploratory Data Analysis (EDA).
